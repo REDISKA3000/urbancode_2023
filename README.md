@@ -7,5 +7,11 @@ The busieness problem that stands behind hack is optimization of tracking comple
 - at the second stages we additionally identified the floor and the "column" for each window. <br/>
 
 Thus, our team has developed multistage algorithm that stage of comleteness, floor and column for each single window.
+## our team
+[Me](https://github.com/REDISKA3000)
+[Ruslan](https://github.com/lubludrova)
+[Nadejda](https://github.com/Horeknad)
+[Maxim](https://github.com/Makual)
+[Aleksa](https://github.com/leksa-pramheda)
 
 
