@@ -6,6 +6,7 @@ The busieness problem that stands behind hack is optimization of tracking comple
 - at the first we had to identify 3 stages of a window's completeness.
 - at the second stages we additionally identified the floor and the "column" for each window. <br/>
 ![alt text](https://github.com/REDISKA3000/urbancode_2023/blob/437a4b9c09e5e720440fca7a13908a6b3733a16d/aparts.jpg)
+
 Thus, our team has developed multistage computer vision algorithm that identify stage of comleteness, floor and column for each single window.
 ## our team
 [Me](https://github.com/REDISKA3000)<br/>
