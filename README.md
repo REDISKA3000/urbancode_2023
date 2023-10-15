@@ -1,11 +1,11 @@
 # urbancode_2023
-![alt text](https://github.com/REDISKA3000/urbancode_2023/blob/fe82934c4a5f2b9ba0272700f4c07964d9fd35aa/urbancode.png)
+![alt text](https://github.com/REDISKA3000/urbancode_2023/blob/cd227a86c3bf0f42f3fc71c281fa1af1c17ae56f/static/urbancode.png)
 
 The hackathon was held by Russian development company Samolet.
 The busieness problem that stands behind hack is optimization of tracking completeness of apartment block development. It was split into 2 stages and the teams had to solve 2 tasks.
 - at the first we had to identify 3 stages of a window's completeness.
 - at the second stages we additionally identified the floor and the "column" for each window. <br/>
-![alt text](https://github.com/REDISKA3000/urbancode_2023/blob/437a4b9c09e5e720440fca7a13908a6b3733a16d/aparts.jpg)
+![alt text](https://github.com/REDISKA3000/urbancode_2023/blob/cd227a86c3bf0f42f3fc71c281fa1af1c17ae56f/static/aparts.jpg)
 
 Thus, our team has developed multistage computer vision algorithm that identify stage of comleteness, floor and column for each single window.
 ## our team
