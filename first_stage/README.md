@@ -11,6 +11,6 @@ To solve the problem we made 4 crucial steps:
 3. trained YOLOv8
 4. optimized hyperparameters to maximize MAP score <br/>
 
-Ultimately, we achieved MAP is equal to 0.83, what was 3rd best score in leaderboard
+Ultimately, we achieved MAP is equal to 0.83, what was 3rd best score in the leaderboard.
 ![alt text](https://github.com/REDISKA3000/urbancode_2023/blob/6287391fd32b8515c307fbec21a23198a081dd70/first_stage/results/21_14_12_06_790792-2023-08-31_34382.jpg)
 ![alt text](https://github.com/REDISKA3000/urbancode_2023/blob/6287391fd32b8515c307fbec21a23198a081dd70/first_stage/results/43_04_09_57_227749-2023-09-06_34977.jpg)
