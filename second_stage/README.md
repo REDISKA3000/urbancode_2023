@@ -8,5 +8,6 @@ To overcome these issues we:
 5. finally, we applied clusterization algorithms: hierarchical clustering, affine propagation, optics, to x-values and y-values separately to identify floors and columns. After that we reduced too big numeber of classes as they exceeded real number of floors and columns in houses.
 
 Here is nice visualisation of our outcomes.
+
 ![alt text](https://github.com/REDISKA3000/urbancode_2023/blob/1e269bf530fbf07d182ca02fe0cf67caf7fd455a/second_stage/results/inf_st2.jpg)
 ![alt text](https://github.com/REDISKA3000/urbancode_2023/blob/1e269bf530fbf07d182ca02fe0cf67caf7fd455a/second_stage/results/inf_stg2_3.jpg)
