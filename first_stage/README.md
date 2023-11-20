@@ -9,7 +9,7 @@ To solve the problem we made 4 crucial steps:
 1. we exended the dataset from 250 up to 400 unique images
 2. applied severall augmentation techniques
 3. trained YOLOv8
-4. optimized hyperparameters to maximize MAP score <br/>
+4. optimized hyperparameters to maximize MAP score on inference <br/>
 
 Ultimately, we achieved MAP is equal to 0.83, what was 3rd best score in the leaderboard.
 ![alt text](https://github.com/REDISKA3000/urbancode_2023/blob/6287391fd32b8515c307fbec21a23198a081dd70/first_stage/results/21_14_12_06_790792-2023-08-31_34382.jpg)
